@@ -1,5 +1,5 @@
 package main
-//hello world comment
+hello world comment
 import "fmt"
 
 func Add(a, b int) int {
